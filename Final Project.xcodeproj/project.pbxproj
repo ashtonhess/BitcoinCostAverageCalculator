@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C0611922764085300230C02 /* BuyRecord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0611912764085300230C02 /* BuyRecord.swift */; };
 		9CD79F872763EF1D00B45F09 /* Final_ProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD79F862763EF1D00B45F09 /* Final_ProjectApp.swift */; };
 		9CD79F892763EF1D00B45F09 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD79F882763EF1D00B45F09 /* ContentView.swift */; };
 		9CD79F8B2763EF1E00B45F09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CD79F8A2763EF1E00B45F09 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C0611912764085300230C02 /* BuyRecord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyRecord.swift; sourceTree = "<group>"; };
 		9CD79F832763EF1D00B45F09 /* Final Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CD79F862763EF1D00B45F09 /* Final_ProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Final_ProjectApp.swift; sourceTree = "<group>"; };
 		9CD79F882763EF1D00B45F09 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				9CD79F882763EF1D00B45F09 /* ContentView.swift */,
 				9CD79F8A2763EF1E00B45F09 /* Assets.xcassets */,
 				9CD79F8C2763EF1E00B45F09 /* Preview Content */,
+				9C0611912764085300230C02 /* BuyRecord.swift */,
 			);
 			path = "Final Project";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C0611922764085300230C02 /* BuyRecord.swift in Sources */,
 				9CD79F892763EF1D00B45F09 /* ContentView.swift in Sources */,
 				9CD79F872763EF1D00B45F09 /* Final_ProjectApp.swift in Sources */,
 			);
@@ -283,7 +287,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AshtonHess.Final-Project";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Final Project";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -312,7 +316,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AshtonHess.Final-Project";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Final Project";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
